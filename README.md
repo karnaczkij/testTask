@@ -1,1 +1,1 @@
-# testTask
+Тестовый проект для JS Camping
